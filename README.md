@@ -1,6 +1,9 @@
 # xwalk-chromedriver
 This Chromedriver can be used to work with Appium and Crosswalk
 
+Unfortunately I had to uploead the chromedriver elsewhere because it's too big for github (I don't know why it's that big...)
+You can download it here: http://www.megafileupload.com/n63Y/chromedriver
+
 This was tested with Appium 1.4.16.
 
 Just put the patched android-hybrid.js to your Appium folder -> `.../appium/lib/devices/android/`
