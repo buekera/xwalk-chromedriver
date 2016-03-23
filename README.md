@@ -1,5 +1,5 @@
 # xwalk-chromedriver
-This Chromedriver can be used to work with Appium and Crosswalk
+This Chromedriver can be used to work with Appium and Crosswalk on Linux based systems
 
 Unfortunately I had to uploead the chromedriver elsewhere because it's too big for github (I don't know why it's that big...)
 You can download it here: http://www.megafileupload.com/n63Y/chromedriver
