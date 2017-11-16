@@ -1,4 +1,7 @@
 # xwalk-chromedriver
+
+**This repository is deprecated and will not receive and updates anymore!**
+
 This Chromedriver can be used to work with Appium and Crosswalk on Linux based systems
 
 Unfortunately I had to uploead the chromedriver elsewhere because it's too big for github (I don't know why it's that big...)
